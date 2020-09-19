@@ -1,0 +1,6 @@
+SA|1|What is the capital of Italy|Rome
+TF|1|The capital of Germany is Munich|True
+MC|0|What is the capital of Ukraine|Minsk:Kyiv:Warsaw:Chisinau|B
+MB|1|What is the capital of Ukraine|Minsk:Kyiv:Warsaw:Chisinau|C
+MC|1|What is the capital of Ukraine|Minsk:Kyiv:Warsaw:Chisinau|D
+MA|1|Which of these border the Atlantic|Maine:Kansas:Georgia:Utah|BA

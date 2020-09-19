@@ -1,0 +1,16 @@
+M|1|What is the capital of Italy|Rome:Paris:Atlanta:Portland|A
+M|1|What is the capital of France|Rome:Portland:Atlana:Paris|d
+M|1|What is the capital of France|Rome:Portland:Atlana:Paris|D
+M|1|What is the capital of France|Rome:Portlandi:Atlana:Paris|E
+M|1|What is the capital of France|Rome:Portland:Paris:France:Atlana:Paris|G
+M|1|What is the cap:ital of France|Rome:Portland:Atlana:Paris|@
+T|9|What is the c:apiital of France|Ti|
+S|2|What is the ca:pital of France|Rome
+S|1|What is the capital of France|Paris    
+\\
+|||||
+
+Tf1|wi|hats up mah dudes|e
+#this is a test
+#test 2
+
